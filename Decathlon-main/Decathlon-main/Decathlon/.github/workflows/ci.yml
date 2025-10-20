@@ -1,5 +1,6 @@
 name: Decathlon CI
 
+
 on:
   push:
     branches: [main]
