@@ -18,3 +18,6 @@ public class CalcTrackAndFieldTest {
         assertEquals(861, points, "Förväntat poäng för 11.0s på 100m");
     }
 }
+
+
+// TESTING CI/CD

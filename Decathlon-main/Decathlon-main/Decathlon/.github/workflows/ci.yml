@@ -23,3 +23,4 @@ jobs:
 
       - name: Kör tester
         run: mvn test
+
