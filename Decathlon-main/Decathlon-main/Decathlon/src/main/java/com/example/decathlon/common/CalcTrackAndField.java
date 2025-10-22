@@ -1,5 +1,6 @@
 package com.example.decathlon.common;
 
+
 public class CalcTrackAndField {
 
 	private int result;

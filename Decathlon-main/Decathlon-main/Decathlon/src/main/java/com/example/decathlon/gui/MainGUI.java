@@ -10,6 +10,7 @@ import java.util.List;
 import com.example.decathlon.deca.*;
 import com.example.decathlon.heptathlon.*;
 
+
 public class MainGUI {
 
     private enum Mode { DEC, HEP }

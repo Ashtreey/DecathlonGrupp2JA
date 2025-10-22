@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.*;
 
+
 @RestController
 @RequestMapping("/com/example/decathlon/api")
 public class ApiController {

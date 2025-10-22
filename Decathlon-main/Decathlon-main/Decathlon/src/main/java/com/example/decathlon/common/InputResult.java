@@ -2,6 +2,7 @@ package com.example.decathlon.common;
 
 import java.util.Scanner;
 
+
 public class InputResult {
 	double inputResult = 0;
 

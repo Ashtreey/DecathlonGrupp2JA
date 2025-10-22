@@ -3,6 +3,7 @@ package com.example.decathlon.heptathlon;
 import com.example.decathlon.common.CalcTrackAndField;
 import com.example.decathlon.common.InputResult;
 
+
 public class HeptHightJump {
 
 	private int score;

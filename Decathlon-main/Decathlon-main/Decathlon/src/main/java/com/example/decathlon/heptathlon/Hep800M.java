@@ -3,6 +3,7 @@ package com.example.decathlon.heptathlon;
 import com.example.decathlon.common.CalcTrackAndField;
 import com.example.decathlon.common.InputResult;
 
+
 public class Hep800M {
 
 	private int score;

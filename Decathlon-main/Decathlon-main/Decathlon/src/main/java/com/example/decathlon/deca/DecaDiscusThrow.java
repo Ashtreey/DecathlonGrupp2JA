@@ -3,6 +3,7 @@ package com.example.decathlon.deca;
 import com.example.decathlon.common.CalcTrackAndField;
 import com.example.decathlon.common.InputResult;
 
+
 public class DecaDiscusThrow {
 
 	private int score;

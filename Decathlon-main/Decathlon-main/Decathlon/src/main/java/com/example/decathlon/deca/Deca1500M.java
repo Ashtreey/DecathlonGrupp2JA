@@ -3,6 +3,7 @@ package com.example.decathlon.deca;
 import com.example.decathlon.common.CalcTrackAndField;
 import com.example.decathlon.common.InputResult;
 
+
 public class Deca1500M {
 
 	private int score;

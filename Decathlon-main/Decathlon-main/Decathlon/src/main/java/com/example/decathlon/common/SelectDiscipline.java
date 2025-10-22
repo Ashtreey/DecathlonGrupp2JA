@@ -21,6 +21,7 @@ import com.example.decathlon.heptathlon.HeptJavelinThrow;
 import com.example.decathlon.heptathlon.HeptLongJump;
 import com.example.decathlon.heptathlon.HeptShotPut;
 
+
 public class SelectDiscipline {
 
 	int disciplineSelected;
